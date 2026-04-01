@@ -118,3 +118,13 @@ O problema foi resolvido utilizando diferentes estratégias:
 A solução final é modular, testável e escalável, permitindo evolução para integração com bancos de dados ou APIs.
 
 ---
+
+## Integrantes do grupo
+
+Ícaro Henrique de Souza Calixto - RM560278
+
+Caio Costa Beraldo - RM560775
+
+Victor Kenzo Mikado- RM560057
+
+Pietro Brandalise De Andrade - RM560142
