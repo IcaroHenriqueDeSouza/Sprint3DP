@@ -40,7 +40,7 @@ Foi aplicada memoização para evitar recomputação de subproblemas já resolvi
 
 ### 3. Indexação com Hash (Otimização)
 
-Uso de estruturas `set` para armazenar:
+Uso de estruturas set para armazenar:
 
 - E-mails
 - Telefones
@@ -60,7 +60,7 @@ Implementação de um algoritmo baseado em programação dinâmica para maximiza
 ### Estratégia
 
 - Ordenação dos intervalos
-- Uso de busca binária (`bisect`) para encontrar o próximo intervalo válido
+- Uso de busca binária (bisect) para encontrar o próximo intervalo válido
 - Memoização para evitar recomputação
 
 **Complexidade:**
@@ -100,7 +100,7 @@ Os testes cobrem:
 
 ## Decisões de Projeto
 
-- Uso de normalização no modelo `Lead` para evitar inconsistências
+- Uso de normalização no modelo Lead para evitar inconsistências
 - Separação entre lógica de negócio e estrutura de dados
 - Implementação de múltiplas abordagens para comparação de eficiência
 - Priorização de clareza e previsibilidade sobre otimizações prematuras
